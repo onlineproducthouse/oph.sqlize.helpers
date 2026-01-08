@@ -1,0 +1,1 @@
+# Online Product House Sequelize Helpers
