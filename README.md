@@ -1,1 +1,1 @@
-# Online Product House Sequelize Helpers
+# OPH SQLize Helpers
