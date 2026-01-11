@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": ">=22.13.1"
+    "node": ">=25.2.1"
   },
   "scripts": {
     "clean": "rm -rf node_modules",

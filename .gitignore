@@ -64,7 +64,7 @@ typings/
 .env.test
 
 # typescript output folder
-lib/
+# lib/
 
 # Swagger JSON file
 api/swagger.json
